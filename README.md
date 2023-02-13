@@ -13,14 +13,15 @@ In addition, I am interested in the cybersecurity area, where I am deeply involv
 <p align="center">
 <h2 align="center"> Programming Languages</h2></p>
 <div style="display: inline_block"><br>
- 
+  <div>
   <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
   <img align="right" alt="Coffe-pic" height="150" src="https://github.com/Nick-Leal/Nick-Leal/blob/main/Imagens/coffee.gif">
-</div>
+ </div>
+ 
+ </div>
 
 <br>
 <h2 align="center">Reach me out on </h2>
