@@ -8,7 +8,7 @@
 
 <h2 align="center"> Welcome to my repositive </h2>
 <p> Hello there, my name is Nicollas Leal. I'm a computer technician and fourth-period student of Information Systems at UGB University. I'm passionate about technology who is always willing to learn, demonstrate my knowledge and domains. I love exploring new technologies and leveraging them to solve real-life problems. 
-In addition, I am interested in the cybersecurity area, where I am deeply involved with the backend in addition to focusing on digital protection, integrity and confidentiality of data in cyber environments.</p>
+In addition, I'm interested in the cybersecurity area, where I'm deeply involved with the backend in addition to focusing on digital protection, integrity and confidentiality of data in cyber environments.</p>
 
 <p align="center">
 <h2 align="center"> Programming Languages</h2></p>
