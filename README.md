@@ -13,6 +13,8 @@ In addition, I'm interested in the cybersecurity area, where I'm deeply involved
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nick-Leal&show_icons=true&count_private=true&hide_border=true&title_color=845EC2&icon_color=845EC2&text_color=B39CD0&bg_color=0d1117" alt="Nicollas Leal github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Leal&layout=compact&hide_border=true&title_color=845EC2&text_color=B39CD0&bg_color=0d1117" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nick-Leal&bg_color=0d1117&color=845ec2&line=845ec2&point=4b4453&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <p align="center">
 <h2 align="left"> Programming Languages</h2></p>
