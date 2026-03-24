@@ -6,8 +6,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nick-Leal&show_icons=true&count_private=true&hide_border=true&title_color=845EC2&icon_color=845EC2&text_color=B39CD0&bg_color=0d1117" alt="Nicollas Leal github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Leal&layout=compact&hide_border=true&title_color=845EC2&text_color=B39CD0&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nick-Leal&show_icons=true&count_private=true&hide_border=true&title_color=845EC2&icon_color=845EC2&text_color=B39CD0&bg_color=0d1117" alt="Nicollas Leal github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Leal&layout=compact&hide_border=true&title_color=845EC2&text_color=B39CD0&bg_color=0d1117" />
 </div>
  
  <p align="center">
@@ -27,7 +27,6 @@
   <h2 align="left"> Studying in this moment</h2></p>
   <div style="display: inline_block"><br>
   <div>
-    <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> 
@@ -39,8 +38,7 @@
 <h2 align="center">Reach me out on </h2>
 <div>
   <a href="https://www.linkedin.com/in/nicollas-leal-2000/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:nleal439@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/nic.leal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nleal439@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
 <br> 
