@@ -7,7 +7,7 @@
 
 <div align="center">  
   <img width="40%" height="170" src="https://github-readme-stats.vercel.app/api?username=Nick-Leal&show_icons=true&count_private=true&hide_border=true&title_color=845EC2&icon_color=845EC2&text_color=B39CD0&bg_color=0d1117" alt="Nicollas Leal github stats" /> 
-  <img width="50%" height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Leal&layout=compact&hide_border=true&title_color=845EC2&text_color=B39CD0&bg_color=0d1117" />
+  <img width="50%" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Leal&layout=compact&hide_border=true&title_color=845EC2&text_color=B39CD0&bg_color=0d1117" />
 </div>
  
  <p align="center">
